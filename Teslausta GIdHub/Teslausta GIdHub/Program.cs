@@ -11,6 +11,7 @@ namespace Teslausta_GIdHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Saamari");
+            Console.WriteLine("TÄMÄ TOIMII");
         }
     }
 }
